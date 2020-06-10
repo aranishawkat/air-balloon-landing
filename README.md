@@ -5,6 +5,6 @@ land the air ballon in a fixed position by avoiding birds and its falling speed.
 
 java -jar AirBalloonLanding.jar
 
-![Game 1](https://github.com/aranishawkat/Air-Balloon-Landing/game1.png)
+(https://github.com/aranishawkat/Air-Balloon-Landing/game1.png)
 
-![Game 2](https://github.com/aranishawkat/Air-Balloon-Landing/game2.png)
+(https://github.com/aranishawkat/Air-Balloon-Landing/game2.png)
